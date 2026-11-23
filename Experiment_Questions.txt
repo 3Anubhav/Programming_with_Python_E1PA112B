@@ -1,0 +1,37 @@
+Exp 1 :
+Getting started with Python: run Hello World; create variables of basic data types; use input()/print(); perform arithmetic calculations and compute area of a circle.
+
+Exp 2 :
+Decision-making programs: simple/compound interest; student grade/result using if-elif-else.
+
+Exp 3 :
+Lists, Tuples and Sets: create and access collections; list indexing/slicing; find minimum/maximum; perform append, insert, delete, sort; demonstrate tuple and set
+basics.
+
+Exp 4 :
+Dictionaries and loops: create a student/contact dictionary; add/update/delete/search entries; traverse using for loop; factorial/even-number program using loops.
+
+Exp 5 :
+String programming: calculate length; positive/negative indexing; slicing; split/join; case conversion; find/replace; simple validation using string methods.
+
+Exp 6 :
+Functions and modules: define functions with parameters and return values; maximum of three numbers; factorial using function
+
+Exp 7 :
+File handling and simple search: create, read, write and append a text file; display unique words; demonstrate file modes; perform a basic text search/replace.
+
+Exp 8 :
+OOP basics: create a Student or BankAccount class; attributes, methods and constructor; create multiple objects and display their data.
+
+Exp 9 :
+Inheritance and polymorphism: implement simple single inheritance; override a method; demonstrate basic polymorphic behavior; conceptual extension to multilevel
+inheritance.
+
+Exp 10 :
+NumPy: create 1-D/2-D arrays; inspect ndim, shape and dtype; perform array arithmetic; matrix addition and transpose.
+
+Exp 11 :
+Pandas: create Series/DataFrame; select rows/columns; add or update a column; sort data; calculate simple minimum, maximum and average values.
+
+Exp 12 :
+Analyse a small dataset using Pandas, create a simple Matplotlib plot, and observe Scikit-Learn predictive-analysis demonstration.
